@@ -21,7 +21,7 @@ namespace UnitTest1
 
         {
 
-            //string Url = "http://172.16.18.106/PAIS_Selenium/";
+            //string Url = "https://csd-test.manipal.edu/rmsnew/login.aspx";
             //IWebDriver driver = new ChromeDriver();
             //driver.Navigate().GoToUrl(Url);
 
