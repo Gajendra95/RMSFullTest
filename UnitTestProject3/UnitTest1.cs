@@ -21,7 +21,7 @@ namespace UnitTest1
 
         {
 
-            //string Url = "https://csd-test.manipal.edu/rmsnew/login.aspx";
+            //string Url = "http://172.16.18.106/RMSStage/";
             //IWebDriver driver = new ChromeDriver();
             //driver.Navigate().GoToUrl(Url);
 
@@ -29,7 +29,7 @@ namespace UnitTest1
             //options.AddArgument("--start-maximized");
             //driver = new ChromeDriver(options);
 
-            string Url = "http://172.16.18.106/RMSStage/";
+            string Url = "https://csd-test.manipal.edu/rmsnew/login.aspx";
             IWebDriver driver = new ChromeDriver();
             driver.Navigate().GoToUrl(Url);
 
