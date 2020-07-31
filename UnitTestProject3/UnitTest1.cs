@@ -29,7 +29,7 @@ namespace UnitTest1
             //options.AddArgument("--start-maximized");
             //driver = new ChromeDriver(options);
 
-            string Url = "https://csd-test.manipal.edu/rmsnew/login.aspx";
+            string Url = "https://csd-test.manipal.edu/rmsstage/login.aspx";
             IWebDriver driver = new ChromeDriver();
             driver.Navigate().GoToUrl(Url);
 
